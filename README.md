@@ -1,5 +1,5 @@
 # iSchool
-This website is a powerful website for learners considering the learner in this digital era.This will solve a lot of problem for students through online service.
+This website is a powerful website for learners considering the learner in this digital era.This will solve a lot of problem for students through online service.Students can enrol in and purchase different courses.
 
 # Key features
 ✔️ Different logins for students/admins,
